@@ -127,5 +127,5 @@ buttonAgain.onclick = function () {
   resultArea.style.display = "none";
 
   let container = document.querySelector(".draw-numbers-container");
-  container.innerHTML = ""; // Clear the previous numbers
+  container.innerHTML = ""; 
 };
